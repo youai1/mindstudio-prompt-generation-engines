@@ -1,3 +1,3 @@
-# Prompt Generation Engines
+# Logic Engines
 
-Leverage large language models to quickly scaffold new AI prompts for any use case. Try different engines to build different styles of prompts. Contribute your own prompt generation engine to share it with the community.
+Leverage large language models to perform "fuzzy" evaluation of conditionals. Craft different prompts to perform different styles of evaluations.
