@@ -7,6 +7,4 @@
 # Statements
 | Ordinal | Statement |
 | ----- | ----- |
-| 1 | a is a |
-| 2 | a is b |
-| 3 | a is doctor |
+{{statements}}
